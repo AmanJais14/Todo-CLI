@@ -2,11 +2,12 @@ Todo CLI
 A command-line tool for managing tasks, created as part of Cohort 3. It allows you to add, delete, and mark tasks as done.
 
 Features
-Add new tasks
-Delete tasks
-Mark tasks as done
-Built with Node.js
-Installation
+- Add new tasks
+- Delete tasks
+- Mark tasks as done
+- Built with Node.js
+- Installation
+
 Clone the repository and install dependencies:
 
 #bash
