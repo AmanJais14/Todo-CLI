@@ -10,12 +10,11 @@ Features
 
 Clone the repository and install dependencies:
 
--bash
 Copy code
--- git clone [REPOSITORY_URL]
--- cd todo-cli
--- npm install
--Usage
--- Add a Task: node index.js add "Deadline Time" "Task Title"
--- Delete a Task: node index.js delete "Task Title"
--- Mark as Done: node index.js mark "Task Title"
+- git clone [REPOSITORY_URL]
+- cd todo-cli
+- npm install
+-Usage----------
+- Add a Task: node index.js add "Deadline Time" "Task Title"
+- Delete a Task: node index.js delete "Task Title"
+- Mark as Done: node index.js mark "Task Title"
