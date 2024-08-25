@@ -9,7 +9,7 @@ Built with Node.js
 Installation
 Clone the repository and install dependencies:
 
-bash
+#bash
 Copy code
 git clone [REPOSITORY_URL]
 cd todo-cli
